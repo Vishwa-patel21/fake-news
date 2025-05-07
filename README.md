@@ -52,11 +52,11 @@ The dataset was obtained from a **public open-source dataset** containing labele
 
 ## 📂 Project Structure
 
-├── data/ # Raw and cleaned dataset files
-├── notebooks/ # Jupyter Notebooks for EDA and model training
-├── src/ # Scripts for preprocessing, training, and evaluation
-├── app/ # Web interface code (if applicable)
-└── README.md # Project documentation
+- data/ # Raw and cleaned dataset files
+- notebooks/ # Jupyter Notebooks for EDA and model training
+- src/ # Scripts for preprocessing, training, and evaluation
+- app/ # Web interface code
+- README.md # Project documentation
 
 
 ---
@@ -76,11 +76,7 @@ This project was completed as part of a **student group assignment**.
 
 ---
 
-## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
-
----
 
 ## 📬 Contact
 
