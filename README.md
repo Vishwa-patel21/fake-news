@@ -58,9 +58,6 @@ The dataset was obtained from a **public open-source dataset** containing labele
 ├── app/ # Web interface code (if applicable)
 └── README.md # Project documentation
 
-yaml
-Copy
-Edit
 
 ---
 
